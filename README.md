@@ -7,8 +7,7 @@ en la funcion resultado vemos que tenemos la funcion potencia esta es la que se 
 ![Captura de pantalla (350) png](https://user-images.githubusercontent.com/71051834/95943258-ea36e680-0daa-11eb-957b-352650fb454a.jpg)
 
 
-creamos una funcion  llamada potencia que es la que se va a llamr 
-![Captura de pantalla (351) png](https://user-images.githubusercontent.com/71051834/95943288-fae75c80-0daa-11eb-99a3-02b66410cef9.jpg)
+creamos una funcion  llamada potencia que es la que se va a llamr ![Captura de pantalla (351) png](https://user-images.githubusercontent.com/71051834/95943288-fae75c80-0daa-11eb-99a3-02b66410cef9.jpg)
 
 
 
